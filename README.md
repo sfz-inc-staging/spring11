@@ -1,4 +1,4 @@
-# spring11
+# spring11 - the finest
 my new project
 
 Based on seed project `spring-team:spring-rest-seed`
